@@ -1,5 +1,5 @@
 <h1 align="center"> Hi everyone! Welcome to my GitHub Profile. 👋</h1>
-<h2 align="justify">Tenho 33 anos, 3 lindas filhas e moro atualmente em Campinas/SP. Sou apaixonado por programação e futebol - 💻⚽ Sou iniciante na área de tecnologia e estou em transição de carreira, com muita vontade de aprender e desvendar esse fascinante mundo de TI.</h2><br>
+<h2 align="justify">Tenho 33 anos, 3 lindas filhas e moro atualmente em Campinas/SP. Sou apaixonado por programação e futebol - 💻⚽ Sou iniciante na área de tecnologia, quase terminando a graduação em Engenharia de Software e estou em transição de carreira, com muita vontade de aprender e desvendar esse fascinante mundo de TI.</h2><br>
 
 
 
