@@ -1,5 +1,7 @@
 <h1 align="center"> Hi everyone! Welcome to my GitHub Profile. 👋</h1>
-<p align="justify">Tenho 34 anos, 3 lindas filhas e moro atualmente em Campinas/SP. Sou apaixonado por programação e futebol - 💻⚽ Sou iniciante na área de tecnologia, quase terminando a graduação em Engenharia de Software e estou em transição de carreira, com muita vontade de aprender e desvendar esse fascinante mundo de TI.</p><br>
+<p align="justify">
+Sou um apaixonado desenvolvedor backend de Campinas/SP, com uma forte paixão por programação e futebol - 💻⚽. Aos 34 anos, sou um orgulhoso pai de três maravilhosas filhas. Atualmente, estou concluindo minha graduação em Engenharia de Software e em plena transição para uma nova carreira na indústria de tecnologia. Minha jornada na área é impulsionada por um desejo incessante de aprender e explorar o fascinante mundo da TI. Estou empolgado para trazer minhas habilidades, dedicação e entusiasmo para novos desafios e oportunidades.
+</p>
 
 
 
