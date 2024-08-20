@@ -1,5 +1,7 @@
 <h1 align="center"> Hi everyone! Welcome to my GitHub Profile. 👋</h1>
-<h2>I'm backend developer!</h2>
+<h2>I'm backend developer. Feel free to get in touch</h2>
+
+[LinkedIn](https://www.linkedin.com/in/anderson-tech)
 
   
           
